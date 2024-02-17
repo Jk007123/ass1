@@ -1,0 +1,54 @@
+.topnav {
+    overflow: hidden;
+    background-color: #006633;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #006633;
+    color: white;
+  }
+form {
+    border: 90px solid #ffcc33; /* Adjust border properties as needed */
+    padding: 10px; /* Add padding for better visual appearance */
+    border-radius: 10px; /* Optional: Add rounded corners */
+    border-width: 60px;
+    box-shadow: #5a6600;
+    }
+    
+    body{
+        background-color: rgb(220, 245, 233);
+    }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        text-align: left;
+        
+      }
+      
+      li {
+        float: right;
+      }
+      
+      li {
+        display: block;
+        color: black;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
